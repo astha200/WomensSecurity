@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392571509815",
+    "firebase_url": "https://womenssecurity2.firebaseio.com",
+    "project_id": "womenssecurity2",
+    "storage_bucket": "womenssecurity2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392571509815:android:89d298e31e755828",
+        "android_client_info": {
+          "package_name": "com.example.asthakinra.womenssecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392571509815-8btfcfpcr5fns3mag5cgqv5e3362d9jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NHHyaZbMKvcyDVSPSwD_inzkkF1PXuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
