@@ -1,0 +1,2 @@
+# WomensSecurity
+Women's Security is an app to help women in emergency situations.A woman can press a button which will automatically dial police's or ambulance's number,or she can press a button to play police siren to trick the attacker.There are features such as sending an already typed message(using database -firebase)to close family members by just clicking a button, or other features like location tracking,which are yet to be worked upon.
